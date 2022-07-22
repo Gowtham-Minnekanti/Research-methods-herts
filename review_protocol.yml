@@ -1,0 +1,28 @@
+Search String 
+
+Step 1:
+
+Key Terms:
+1.	Software Project
+2.	Planning
+3.	Agile
+
+Step 2:
+
+Synonyms : 
+Software Project : Application, Software tool
+Planning : Arranging, Organizing, Strategizing
+Agile : Project Methodology
+
+Step 3:
+Search String for IEEE Explore:
+((Software AND Software Devlopment OR Project Developement AND Project* OR Project Planning e OR {information technology} OR {information system*}) AND (Agile* OR Agile Methodo*)) AND (Factor OR Factors * OR Factors Aff*)
+
+Inclusion Criteria :
+1.	Only written in English
+2.	Directly answer the research question.
+3.	Published from 2006 to 2022(Present)
+
+Exclusion Criteria:
+1.	Do not Include Early access articles 
+2.	Do not include Duplicates of previous works
